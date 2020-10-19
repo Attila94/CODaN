@@ -11,9 +11,9 @@ The dataset is collected from the excellent [COCO](https://cocodataset.org/#home
 The dataset is packaged as a Torchvision dataset for easy use with Pytorch:
 1. Clone repository: `git clone https://github.com/Attila94/CODaN`.
 2. Copy `codan.py` to your project folder.
-3. Call dataset using `dataset = CODaN(root=<PATH_TO_data_DIR>)`. For more arguments see `codan.py`.
+3. Call dataset using `dataset = CODaN(root=<PATH_TO_data_DIR>)`. The `.tar.bz2` files will be extracted automatically. For more arguments see `codan.py`.
 
-For use with other frameworks simply extract all `.tar.bz2` files. Splits and classes will be organized in different folders.
+For use with other frameworks simply manually extract all `.tar.bz2` files. Splits and classes will be organized in different folders.
 
 ## Citation
 
