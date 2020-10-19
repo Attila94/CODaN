@@ -3,7 +3,7 @@ Common Objects Day and Night (CODaN) is an image classification dataset for zero
 
 The CODaN dataset consists of 15,500 224x224 colour images in 10 classes, with 1,550 images per class. There are 10,000 training images, 500 validation images, 250 daytime test images and 250 nighttime test images. 
 
-The dataset is collected from the excellent [COCO](https://cocodataset.org/#home), [ImageNet](http://imagenet.stanford.edu) and [ExDark](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) datasets. All images are filtered and cropped such that they have the same dimensions and are completely mutually exclusive, i.e. do not contain objects of different classes, nor to belong objects to multiple classes.
+The dataset is collected from the excellent [COCO](https://cocodataset.org/#home), [ImageNet](http://imagenet.stanford.edu) and [ExDark](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) datasets. All images are filtered and cropped such that they have the same dimensions and are completely mutually exclusive, i.e. do not contain objects of different classes, nor do belong objects to multiple classes.
 
 ![CODaN dataset](https://github.com/Attila94/CODaN/raw/main/codan.gif)
   
