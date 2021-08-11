@@ -24,12 +24,11 @@ CITATION COMES HERE
 ```
 
 ## Baselines
-We provide weights to trained ResNet-18 and VGG16 baselines, both trained from random initialization as well as pre-trained on ImageNet.
+We provide weights of a ResNet-18 baseline, as mentioned in [Zero-Shot Day-Night Domain Adaptation with a Physics Prior]().
 
-|                       | ResNet-18 | VGG16 |
-| --------------------- | --------- | ----- |
-| Random initialization |           |       |
-| ImageNet pre-training |           |       |
+|                       | Day accuracy (%)| Night accuracy (%) |
+| --------------------- | --------------- | ------------------ |
+| ResNet-18             | 80.39 +- 0.38   | 48.31 +- 1.33.     |
 
 
 ## Dataset composition
