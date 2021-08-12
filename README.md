@@ -52,7 +52,3 @@ CODaN is composed of images from three datasets. ImageNet images used for the va
 | Bottle    | COCO [44: 274/26/124]<br />ImageNet [n02823428: 179/6/31]<br />ImageNet [n03983396: 236/8/41]<br />ImageNet [n04557648: 161/5/28]<br />ImageNet [n04591713: 150/5/26] | ExDark [Bottle: 250]    |
 | Cup       | COCO [46/47: 641/32/160]<br />ImageNet [n02823750: 132/7/33]<br />ImageNet [n07892512: 96/5/24]<br />ImageNet [n07930864: 131/6/33] | ExDark [Cup: 250]       |
 | Chair     | COCO [42: 1,000/50/250]                                      | ExDark [Chair: 250]     |
-
-
-## License and copyright
-TODO!
