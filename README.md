@@ -20,7 +20,14 @@ For use with other frameworks simply manually extract all `.tar.bz2` files. Spli
 If you find this dataset useful for your research, please cite
 
 ```
-CITATION COMES HERE
+@article{lengyel2021zeroshot,
+      title={Zero-Shot Domain Adaptation with a Physics Prior}, 
+      author={Attila Lengyel and Sourav Garg and Michael Milford and Jan C. van Gemert},
+      year={2021},
+      eprint={2108.05137},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 ## Baselines
